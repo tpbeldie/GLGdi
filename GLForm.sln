@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GLForm", "GLForm\GLForm.csproj", "{DE19E685-6B91-488A-AB80-9B2DAAC430E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GLFormTest", "GLFormTest\GLFormTest.csproj", "{ECB46F93-6213-40F5-90AE-878AB27AF068}"
+	ProjectSection(ProjectDependencies) = postProject
+		{DE19E685-6B91-488A-AB80-9B2DAAC430E7} = {DE19E685-6B91-488A-AB80-9B2DAAC430E7}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE19E685-6B91-488A-AB80-9B2DAAC430E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE19E685-6B91-488A-AB80-9B2DAAC430E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE19E685-6B91-488A-AB80-9B2DAAC430E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE19E685-6B91-488A-AB80-9B2DAAC430E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECB46F93-6213-40F5-90AE-878AB27AF068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECB46F93-6213-40F5-90AE-878AB27AF068}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECB46F93-6213-40F5-90AE-878AB27AF068}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECB46F93-6213-40F5-90AE-878AB27AF068}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F1A33E2-7230-478A-B7E0-15D512A707F3}
+	EndGlobalSection
+EndGlobal
