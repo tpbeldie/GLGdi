@@ -8,7 +8,7 @@ https://github.com/tpbeldie/GLGdi.GLForm/assets/122232758/ee472c49-f6f0-4495-a62
 - Use OnPaintGL instead of OnPaint
 - Done
 
-# Requirements
+# Requirements:
 
 - Only runs on Windows
 - Net Framework 2.0 (This thing probably could run on Win 98)
