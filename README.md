@@ -4,7 +4,7 @@ https://github.com/tpbeldie/GLGdi.GLForm/assets/122232758/ee472c49-f6f0-4495-a62
 
 # Usage:
 
-Use GLForm instead of Form
-Use OnPaintGL instead of OnPaint
-Done
+- Use GLForm instead of Form
+- Use OnPaintGL instead of OnPaint
+- Done
 
